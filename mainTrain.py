@@ -11,6 +11,7 @@ from keras.models import Sequential
 
 
 
+
 image_directory = 'Training/'
 
 no_tumor_images= os.listdir(image_directory+ 'no_tumor/')
